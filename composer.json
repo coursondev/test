@@ -1,0 +1,15 @@
+{
+    "name": "coursondev/kafka",
+    "autoload": {
+        "psr-4": {
+            "Coursondev\\Kafka\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Balyhin",
+            "email": "simpladev@yandex.ru"
+        }
+    ],
+    "require": {}
+}
