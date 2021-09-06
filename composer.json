@@ -11,5 +11,6 @@
             "email": "simpladev@yandex.ru"
         }
     ],
-    "require": {}
+    "require": {},
+     "minimum-stability": "main",
 }
